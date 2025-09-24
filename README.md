@@ -37,6 +37,8 @@ Se implementó una VPN utilizando Tailscale para interconectar de manera segura 
 
 **Evidencia:** Captura del panel de administración de Tailscale mostrando los dispositivos conectados.
 
+![Image](https://github.com/user-attachments/assets/3553e49a-6bee-44bd-bf4c-e351c1198303)
+
 ### 2. Instalación de InfluxDB (15%)
 
 - Instalación desde el repositorio oficial siguiendo las mejores prácticas actuales
@@ -103,6 +105,9 @@ Se creó un dashboard unificado que integra métricas IoT desde InfluxDB con mé
 - **Flux Query Language** para consultas a InfluxDB
 - **PromQL** para consultas a Prometheus
 - **Visualizaciones unificadas** en una sola interfaz
+
+![Image](https://github.com/user-attachments/assets/bdaf2a60-045e-42e1-a9bf-73a12e5c1f59)
+![Image](https://github.com/user-attachments/assets/6593ae0d-6f33-4202-b622-7234bd868427)
 
 ### 7. Informe Escrito y Reflexiones (5%)
 
