@@ -117,16 +117,14 @@ Se creó un dashboard unificado que integra métricas IoT desde InfluxDB con mé
 
 ## Video Demostración
 
-[!Ver Video Demo](https://www.youtube.com/watch?v=DWGQMuYsQzY)
+[Ver Video Demo](https://www.youtube.com/watch?v=DWGQMuYsQzY)
 
-### 📋 Contenido del video:
+### Contenido del video:
 - Dashboard de Grafana en tiempo real
 - Datos de temperatura/humedad desde InfluxDB
 - Métricas del sistema con Prometheus
 - Configuración de paneles y visualizaciones
 - Navegación por la interfaz completa
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-flat&logo=youtube&logoColor=white)]([https://youtu.be/TU_VIDEO_ID_AQUI](https://youtu.be/DWGQMuYsQzY))
 
 ### 7. Informe Escrito y Reflexiones (5%)
 
