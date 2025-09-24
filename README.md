@@ -115,6 +115,19 @@ Se creó un dashboard unificado que integra métricas IoT desde InfluxDB con mé
 ![Image](https://github.com/user-attachments/assets/bdaf2a60-045e-42e1-a9bf-73a12e5c1f59)
 ![Image](https://github.com/user-attachments/assets/6593ae0d-6f33-4202-b622-7234bd868427)
 
+## Video Demostración
+
+[!Ver Video Demo](https://www.youtube.com/watch?v=DWGQMuYsQzY)
+
+### 📋 Contenido del video:
+- Dashboard de Grafana en tiempo real
+- Datos de temperatura/humedad desde InfluxDB
+- Métricas del sistema con Prometheus
+- Configuración de paneles y visualizaciones
+- Navegación por la interfaz completa
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-flat&logo=youtube&logoColor=white)]([https://youtu.be/TU_VIDEO_ID_AQUI](https://youtu.be/DWGQMuYsQzY))
+
 ### 7. Informe Escrito y Reflexiones (5%)
 
 #### Ventajas de Tailscale en este escenario
