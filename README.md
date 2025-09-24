@@ -44,6 +44,8 @@ Se implementó una VPN utilizando Tailscale para interconectar de manera segura 
 - Instalación desde el repositorio oficial siguiendo las mejores prácticas actuales
 - Configuración de organización, bucket y token de autenticación
 - Verificación del correcto funcionamiento del servicio
+  
+[Instalación de InfluxDB](./influxDB/readme.md)
 
 ### 3. Instalación de Prometheus y Node Exporter (15%)
 
