@@ -53,11 +53,15 @@ Se implementó una VPN utilizando Tailscale para interconectar de manera segura 
 - Actualización del archivo de configuración prometheus.yml para el monitoreo de endpoints
 - Validación de la recolección de métricas del sistema
 
+[Instalación de Prometheus](./prometheus/readme.md)
+
 ### 4. Instalación de Grafana (15%)
 
 - Instalación y habilitación del servicio de Grafana
 - Configuración de fuentes de datos para conectar con InfluxDB y Prometheus
 - Verificación de la conectividad con ambas plataformas
+
+[Instalación de Grafana](./grafana/readme.md)
 
 ### 5. Simulación de Datos IoT (15%)
 
